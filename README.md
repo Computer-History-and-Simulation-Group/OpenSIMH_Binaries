@@ -8,4 +8,5 @@ If you heve issues with these binaries, create an Issue and we will try to deter
 Simulator issues will be passed on to the respective developers.
 
 
-### Check out the CHSG mailing list at https://groups.io/g/CHSG
+**Check out the CHSG mailing list at https://groups.io/g/CHSG**
+      **and the SIMH mailing list at https://groups.io/g/SIMH**
